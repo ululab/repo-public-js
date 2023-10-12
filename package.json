@@ -1,0 +1,23 @@
+{
+  "name": "@ululab/repo-public",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "test"
+  ],
+  "author": "Andrea Cecato",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ululab/repo-public-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ululab/repo-public-js/issues"
+  },
+  "homepage": "https://github.com/ululab/repo-public-js#readme"
+}
